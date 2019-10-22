@@ -42,7 +42,7 @@ return [
             'prefix' => '',
             'foreign_key_constraints' => env('DB_FOREIGN_KEYS', true),
         ],
-
+        // Database connection for tests.
         'mysql' => [
             'driver' => 'mysql',
             'url' => env('DATABASE_URL'),
