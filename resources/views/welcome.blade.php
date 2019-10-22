@@ -83,6 +83,9 @@
                 <div class="title m-b-md">
                     Laravel 6
                 </div>
+                <div class="title m-b-md">
+                    Styde
+                </div>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
