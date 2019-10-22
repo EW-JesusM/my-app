@@ -81,7 +81,7 @@
 
             <div class="content" style="background: pink;font-size:35px;">
                 <div class="title m-b-md">
-                    Laravel 6
+                    Laravel 67
                 </div>
 
                 <div class="links">
