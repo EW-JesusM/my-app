@@ -84,7 +84,7 @@
                     Laravel 67
                 </div>
                 <div class="title m-b-md">
-                   sddsddsdsdsd
+                   Styde te enseña
                 </div>
 
                 <div class="links">
