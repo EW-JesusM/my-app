@@ -79,7 +79,7 @@
                 </div>
             @endif
 
-            <div class="content">
+            <div class="content" style="background: pink;font-size:35px;">
                 <div class="title m-b-md">
                     Laravel 6
                 </div>
